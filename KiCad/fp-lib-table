@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name pcb-src)(type KiCad)(uri ${KIPRJMOD}/pcb-src)(options "")(descr ""))
+  (lib (name TESLA-FRB)(type KiCad)(uri ${KIPRJMOD}/TESLA-FRB.pretty)(options "")(descr ""))
+  (lib (name mato-rescue)(type KiCad)(uri ${KIPRJMOD}/mato-rescue)(options "")(descr ""))
+)

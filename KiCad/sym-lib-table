@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name logic-7400)(type Legacy)(uri ${KIPRJMOD}/logic-7400.lib)(options "")(descr ""))
+  (lib (name 8224)(type Legacy)(uri ${KIPRJMOD}/8224.lib)(options "")(descr ""))
+  (lib (name 8228)(type Legacy)(uri ${KIPRJMOD}/8228.lib)(options "")(descr ""))
+  (lib (name Mato-rescue)(type Legacy)(uri ${KIPRJMOD}/Mato-rescue.lib)(options "")(descr ""))
+)

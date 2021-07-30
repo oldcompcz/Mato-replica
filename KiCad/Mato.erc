@@ -1,0 +1,69 @@
+ERC report (30/07/2021 22:02:05, Encoding UTF8 )
+
+***** Sheet /
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(247.65 mm, 30.48 mm): Pin 11 (Tri-state) of component U35 is connected to 
+    @(87.63 mm, 26.67 mm): pin 14 (Output) of component U14 (net 2).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(247.65 mm, 120.65 mm): Pin 18 (Tri-state) of component U34 is connected to 
+    @(189.23 mm, 77.47 mm): pin 14 (Output) of component U20 (net 7).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(247.65 mm, 123.19 mm): Pin 19 (Tri-state) of component U34 is connected to 
+    @(241.30 mm, 77.47 mm): pin 14 (Output) of component U21 (net 8).
+ErrType(5): Conflict problem between pins. Severity: error
+    @(90.17 mm, 85.09 mm): Pin 7 (Output) of component U27 is connected to 
+    @(154.94 mm, 130.81 mm): pin 1 (Output) of component U33 (net 9).
+ErrType(8): Global label not connected to any other global label
+    @(185.42 mm, 45.72 mm): Global label STSTB is not connected to any other global label.
+ErrType(5): Conflict problem between pins. Severity: error
+    @(135.89 mm, 133.35 mm): Pin 19 (Output) of component U32 is connected to 
+    @(90.17 mm, 74.93 mm): pin 5 (Output) of component U27 (net 32).
+ErrType(5): Conflict problem between pins. Severity: error
+    @(154.94 mm, 128.27 mm): Pin 22 (Output) of component U33 is connected to 
+    @(63.50 mm, 41.91 mm): pin 12 (Output) of component U24 (net 93).
+
+***** Sheet /RAM/
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(189.23 mm, 26.67 mm): Pin 14 (Output) of component U16 is connected to 
+    @(247.65 mm, 35.56 mm): pin 13 (Tri-state) of component U35 (net 1).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(87.63 mm, 26.67 mm): Pin 14 (Output) of component U14 is connected to 
+    @(247.65 mm, 105.41 mm): pin 11 (Tri-state) of component U34 (net 2).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(138.43 mm, 26.67 mm): Pin 14 (Output) of component U15 is connected to 
+    @(247.65 mm, 33.02 mm): pin 12 (Tri-state) of component U35 (net 3).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(241.30 mm, 26.67 mm): Pin 14 (Output) of component U17 is connected to 
+    @(247.65 mm, 38.10 mm): pin 15 (Tri-state) of component U35 (net 4).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(87.63 mm, 77.47 mm): Pin 14 (Output) of component U18 is connected to 
+    @(247.65 mm, 40.64 mm): pin 16 (Tri-state) of component U35 (net 5).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(138.43 mm, 77.47 mm): Pin 14 (Output) of component U19 is connected to 
+    @(247.65 mm, 43.18 mm): pin 17 (Tri-state) of component U35 (net 6).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(189.23 mm, 77.47 mm): Pin 14 (Output) of component U20 is connected to 
+    @(247.65 mm, 45.72 mm): pin 18 (Tri-state) of component U35 (net 7).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(241.30 mm, 77.47 mm): Pin 14 (Output) of component U21 is connected to 
+    @(247.65 mm, 48.26 mm): pin 19 (Tri-state) of component U35 (net 8).
+
+***** Sheet /video/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(80.01 mm, 130.81 mm): Pin 5 (Input) of component U10 is not driven (Net 147).
+
+***** Sheet /video2/
+
+***** Sheet /PIO/
+
+***** Sheet /power/
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(71.12 mm, 124.46 mm): Pin 1 (Power output) of component #FLG0102 is connected to 
+    @(132.08 mm, 158.75 mm): pin 4 (Bidirectional) of component PR3 (net 20).
+ErrType(4): Conflict problem between pins. Severity: warning
+    @(71.12 mm, 134.62 mm): Pin 1 (Power output) of component #FLG0103 is connected to 
+    @(127.00 mm, 158.75 mm): pin 6 (Bidirectional) of component PR3 (net 27).
+
+***** Sheet /modulator/
+
+ ** ERC messages: 18  Errors 3  Warnings 15
