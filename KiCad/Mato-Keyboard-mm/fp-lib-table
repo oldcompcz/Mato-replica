@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name pcb-src)(type KiCad)(uri ${KIPRJMOD}/pcb-src)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+  (lib (name TESLA-FRB)(type KiCad)(uri D:/retro/pmd/mato/kicad/Mato/TESLA-FRB.pretty)(options "")(descr ""))
+)
